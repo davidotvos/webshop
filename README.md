@@ -1,2 +1,0 @@
-# webshop
-otvos ekszer webshop
